@@ -7,26 +7,26 @@ h1{
     border: azure ;
 }
 
+
+
 body {
-    margin: 40px;
-    border: 0.5px solid grey;
-    padding: 30px;
     background-color: #ffb5b5; 
     background-image: url(images/confetti.png);
     background-size: 100%;
-    background-size: contain;
     background-repeat: no-repeat;
+    background-position: center;
     background-attachment: fixed;
-    background-position: center;    
+    background-repeat: no-repeat;
 }
   
 header {
-    width: 1200px;
+    width: 100%;
     display: flex;
     justify-content: center;
 }
 
-img {
+header img {
+
     width: 600px;
     height: 300px;
 }
@@ -48,14 +48,6 @@ form{
 }
 
 
-body{
-    background-attachment: fixed;
-    background-size: 80%;
-    background-position: 33%;
-    background-repeat: no-repeat;
-    position: relative;
-    justify-content: center;
-}
 
 input{
     border: 1px solid #8ef6e4;
