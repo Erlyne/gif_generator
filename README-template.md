@@ -7,6 +7,8 @@
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+
 
 ## Overview
 
@@ -27,6 +29,9 @@
 ### What I learned
 
 This was my first time using API hehe
+
+### Continued development
+
 
 ## Acknowledgments
 
