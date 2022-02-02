@@ -1,16 +1,8 @@
 
+A gif generator, just write a keyword on the search bar and click on "Search", click on "clear" if you want to clear the page... 
 
-## Table of contents
 
-- [Overview](#overview)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-
-## Overview
-
-### Links
+## Links
 
 - Live Site URL: [Giphy Party By Erlyne](https://giphyparty.netlify.app/)
 
@@ -26,8 +18,5 @@
 
 ### What I learned
 
-This was my first time using API hehe
+This was my first time using API 
 
-## Acknowledgments
-
-I stole [this](https://github.com/pikapikamart/frontendmentor-easybank/blob/main/README-template.md) README template from [Frontend Mentor](https://www.frontendmentor.io/home)
